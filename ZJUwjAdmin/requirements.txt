@@ -165,7 +165,7 @@ pycrypto==2.6.1
 pycurl==7.43.0.4
 PyDispatcher==2.0.5
 pyflakes==2.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyHamcrest==2.0.2
 pylint==2.4.4
 PyMySQL==0.9.3
